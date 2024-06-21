@@ -1,1 +1,3 @@
 CLIP (Contrastive Language-Image Pre-training) - Multimodal Sexism Identification System
+# Description
+This repository contains the code for the paper Multi-modal Contrastive Learning for Sexism Identification on Memes, where we describe our participation in the sEXism Identification in Social neTworks (EXIST) 2024 Challenge. The codes and paper will be releasing soon ...
